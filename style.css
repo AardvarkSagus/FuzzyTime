@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Roboto-Thin;
+    src: url(http://code.venturous.org/projects/fuzzytime/fonts/Roboto-Thin.ttf);
+}
+
+body {
+    font-family: Roboto-Thin;
+    font-size: 256px;
+    text-align: right;
+    color: #FFFFFF;
+	background-image:url('MilkyWay.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
